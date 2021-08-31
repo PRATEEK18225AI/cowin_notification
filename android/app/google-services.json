@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "493932942776",
+    "project_id": "cowin-slot-notification",
+    "storage_bucket": "cowin-slot-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493932942776:android:3f78fe656012d627c42b4d",
+        "android_client_info": {
+          "package_name": "com.example.cowin_vaccine_slot_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493932942776-qntr6cm15p8jq9q8v0er050afskf3f05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cowin_vaccine_slot_notification",
+            "certificate_hash": "7b91238a8249716ff4f780aabedb29493b75e355"
+          }
+        },
+        {
+          "client_id": "493932942776-9p3vlceb1pqkjeu00qn6v11our9bi2e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGorS6rhLUPak1-APmAMP0r_97l2DQnpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493932942776-9p3vlceb1pqkjeu00qn6v11our9bi2e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
