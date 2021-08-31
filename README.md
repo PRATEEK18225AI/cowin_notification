@@ -40,12 +40,13 @@ Given application is made as a part of Btech 6th semester internship under the g
  <img src="./screenshots/AI_predictions.jpg" width="180" height="360">
 
 ## Links
-[apk_link]()
+[apk_link](https://drive.google.com/file/d/1TRMbPjFHGzMsWWpLbYdVBKk-EWYgybzc/view?usp=sharing)
 
 [ml_model_training_and_deployment](https://colab.research.google.com/drive/13N1RPtxWYZ9qUP7D-aZwMG12anWysoWb?usp=sharing)
 
-[demo_videos](https://drive.google.com/drive/folders/1jjgnp6K0qRHLL1IKbJX-AzOjRr-v-dPr?usp=sharing)
+[project_demo](https://drive.google.com/drive/folders/1jjgnp6K0qRHLL1IKbJX-AzOjRr-v-dPr?usp=sharing)
 
-### Team Members
+### Team Members and Contributions
+ <img src="./screenshots/credits.png" width="260" height="240">
 
 
