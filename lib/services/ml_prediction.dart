@@ -10,7 +10,7 @@ class RandomForestRegressor {
   Future<List> getPredictions() async {
     DateTime today = DateTime.now();
     var url =
-        'http://0e174408-7729-48da-bded-42d78768b672.southeastasia.azurecontainer.io/score';
+        'http://9d729b4d-7180-4788-9928-2f167a585614.southeastasia.azurecontainer.io/score';
 
     var lookupArr = [];
     var postals = [];
